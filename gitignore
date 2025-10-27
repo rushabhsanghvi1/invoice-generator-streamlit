@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.streamlit/
+.env
+streamlit_env/
+venv/
+*.csv
+*.pdf
+.DS_Store
+.idea/
+*.db
+.cache/
